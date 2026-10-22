@@ -1,0 +1,15 @@
+export const IMAGES = {
+  5: require('../assets/products/jaqueta.jpg'),
+  6: require('../assets/products/teniscasual.jpg'),
+  7: require('../assets/products/livrodedesign.jpg'),
+  8: require('../assets/products/carregadorportatil.jpg'),
+  9: require('../assets/products/jogodetoalhas.jpg'),
+  10: require('../assets/products/camiseta.jpg'),
+  11: require('../assets/products/livrodereceita.jpg'),
+  12: require('../assets/products/tapetedeyoga.jpg'),
+  13: require('../assets/products/boladevolei.jpg'),
+  14: require('../assets/products/caixadesom.jpg'),
+  15: require('../assets/products/garrafatermica.jpg'),
+  16: require('../assets/products/halteres5kg.jpg'),
+  17: require('../assets/products/mochila.jpg'),
+};

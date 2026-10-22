@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Compra Rápido",
+    "slug": "compra-rapido",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "runtimeVersion": { "policy": "appVersion" },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.comprarapido.app" },
+    "android": { "package": "com.comprarapido.app" },
+    "plugins": [
+      ["expo-image-picker", { "cameraPermission": "O Compra Rápido usa a câmera para tirar sua foto de perfil." }],
+      ["expo-location", { "locationWhenInUsePermission": "O Compra Rápido usa sua localização para mostrar vendedores próximos." }]
+    ]
+  }
+}
